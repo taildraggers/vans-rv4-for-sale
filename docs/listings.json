@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "page_title": "Other Van's RV-4 Ads on the Web",
+ "updated": "2026-11-28T20:46:07+00:00",
+ "count": 3,
+ "disclaimer": "External listings are provided for informational purposes. Taildraggers.com is not affiliated with or endorsed by the originating listing sites. Listing information remains the responsibility of the original publisher. Clicking an external listing will take you to the source website.",
+ "search_heading": "Search More Van's RV-4 Listings",
+ "search_intro": "View additional Van's RV-4 listings at these fine sites:",
+ "search_links": [
+  {
+   "name": "Trade-A-Plane",
+   "url": "https://www.trade-a-plane.com/filtered/search?s-type=aircraft&s-keyword-search=vans+rv4&s-original-search=vans+rv4"
+  },
+  {
+   "name": "Controller",
+   "url": "https://www.controller.com/listings?keywords=vans%20rv4"
+  },
+  {
+   "name": "ASO",
+   "url": "https://aso.com/search?q=Vans+RV4"
+  }
+ ],
+ "listings": [
+  {
+   "title": "Van's RV-4",
+   "url": "https://www.barnstormers.com/classified-2078405-Vans-RV-4.html",
+   "price": "$59,000",
+   "price_value": 59000,
+   "location": "Joplin, MO",
+   "date_posted": "November 24, 2026",
+   "date": "2026-11-24",
+   "site": "Barnstormers.com"
+  },
+  {
+   "title": "Van's RV-4",
+   "url": "https://www.barnstormers.com/classified-2085026-Vans-RV-4.html",
+   "price": "$85,000",
+   "price_value": 85000,
+   "location": "Fresno, CA",
+   "date_posted": "November 21, 2026",
+   "date": "2026-11-21",
+   "site": "Barnstormers.com"
+  },
+  {
+   "title": "1995 Van's RV-4",
+   "url": "https://www.barnstormers.com/classified-2081365-1995-180HP-Vans-RV-4---$74,900.html",
+   "price": "$74,900",
+   "price_value": 74900,
+   "location": "The Woodlands, TX",
+   "date_posted": "November 1, 2026",
+   "date": "2026-11-01",
+   "site": "Barnstormers.com"
+  }
+ ]
+}
